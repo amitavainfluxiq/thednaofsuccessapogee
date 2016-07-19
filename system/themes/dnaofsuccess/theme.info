@@ -1,0 +1,29 @@
+# Info File for Emerald Skin
+
+# Name = The name of the skin
+name=Dnaofsuccess;
+
+# Description: A simple description of the theme
+description=Dnaofsuccess front end theme.
+
+This is a multiple Line entry!!!;
+
+# CSS: The name (or names, comma seperated) of the css files to be included on every page of this theme
+css=NO.css;
+
+
+# Theme Skin Tag Defaults
+
+default_skintags[header][type] = file;
+default_skintags[header][value] = system/themes/dnaofsuccess/layout/header.php;
+
+
+
+default_skintags[body][type] = file;
+default_skintags[body][value] = system/themes/dnaofsuccess/layout/body.php;
+
+
+
+default_skintags[footer][type] = file;
+default_skintags[footer][value] = system/themes/dnaofsuccess/layout/footer.php;
+

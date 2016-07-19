@@ -1,0 +1,39 @@
+# Info File for Default Skin
+
+# Name = The name of the skin
+name=Default;
+
+# Description: A simple description of the theme
+description=Default System Theme... available for overriding.
+
+This is a multiple Line entry!!!;
+
+# CSS: The name (or names, comma seperated) of the css files to be included on every page of this theme
+css=styles.css;
+
+uses_bootstrap=true;
+uses_own_bootstrap=false;
+
+
+
+default_skintags[meta_tags][type] = file;
+default_skintags[meta_tags][value] = includes/meta_tags.php;
+
+default_skintags[stylesheets][type] = file;
+default_skintags[stylesheets][value] = includes/stylesheets.php;
+
+default_skintags[body_header][type] = file;
+default_skintags[body_header][value] = includes/body_header.php;
+
+default_skintags[header][type] = file;
+default_skintags[header][value] = includes/header.php;
+
+default_skintags[body][type] = file;
+default_skintags[body][value] = includes/body_default.php;
+
+default_skintags[body_footer][type] = file;
+default_skintags[body_footer][value] = includes/body_footer.php;
+
+#FOR SOME REASON THESE ARE LEFT BLANK IN THE OLD DEFAULT SKIN 
+#default_skintags[footer][type] = file;
+#default_skintags[footer][value] = includes/footer.php;

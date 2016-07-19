@@ -1,0 +1,81 @@
+
+body {
+    background: #B9CBD9 url('system/themes/default/images/Background_Scaled.jpg');
+    background-size: 100%;
+    background-repeat:repeat-y;
+    font-size: 13px;
+    background-color:#EFEFEF;
+    padding:0;
+    margin:0;
+}
+
+#skin_header {
+	height:120px;
+	/*background: url('system/themes/default/images/bg_header_pattern.png');
+	background-color:#000000;
+	*/
+	background-color:#FFFFFF;
+	border-bottom:2px solid #9F9F9F;
+	-webkit-box-shadow: 0px 0px 8px rgba(50, 50, 50, 0.75);
+	-moz-box-shadow:    0px 0px 8px rgba(50, 50, 50, 0.75);
+	box-shadow:         0px 0px 8px rgba(50, 50, 50, 0.75);
+}
+
+#body_top {
+	text-align:center;
+	padding:10px;
+}
+
+#main_cont {
+	width:960px;
+	margin:10px auto;
+	background-color:#FFF;
+	padding:10px;
+	border:none;/*2px solid #9F9F9F;*/
+	-webkit-border-radius: 15px;
+	-moz-border-radius: 15px;
+	border-radius: 15px;
+	background-color: rgba(255,255,255,0);
+}
+
+div.box_main {
+	clear:both; /* fix floating issue of main body content */
+}
+
+
+#dashboard_main_menu {
+  left: 250px;
+  background-color: rgba(255,255,255,0.1);
+}
+
+
+
+a.small_blue_button, a.small_blue_button:hover, a.small_blue_button:active, a.small_blue_button:visited {
+	background-color: #009BF1;
+	border-radius:2px;
+	padding: 3px 15px;
+	margin: 4px;
+
+	font-weight:bold;
+	font-size:11px;
+	color:#FFF;
+	letter-spacing:1px;
+	
+}
+
+.blue_title {
+	font-size: 20px;
+	font-weight:bold;
+	color: #178CC2;
+}
+
+.widg_container.widg-clearblackbox
+{
+    padding-left:0;
+    padding-right:0;
+    padding-bottom:0;
+    border-radius:10px;
+    overflow:hidden;
+}
+
+
