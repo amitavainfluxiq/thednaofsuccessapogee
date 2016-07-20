@@ -396,7 +396,7 @@ a.home_banner_btn:hover{color: #fff;}
 
 .dnaleftblock1 .dnablock1_heading{ background:url(system/themes/dnaofsuccess/images/dnatextbg1.png) no-repeat; width:100%; height:168px; background-size:cover; border-radius:4px 4px 0 0; overflow:hidden; padding:22px 12px;}
 
-.dnaleftblock1 .dnablock1_heading h2{ background:url(system/themes/dnaofsuccess/images/dnaimg1.png) no-repeat left center; padding:0 0 0 78px; margin:0; font-size:27px; color:#fff; font-family:'OpenSans-Bold';  text-transform:uppercase; text-shadow:0 0 2px #d3d3d2;}
+.dnaleftblock1 .dnablock1_heading h2{ background:url(system/themes/dnaofsuccess/images/dnaimg1.png) no-repeat left center; padding: 15px 0 15px 78px; margin:0; font-size:27px; color:#fff; font-family:'OpenSans-Bold';  text-transform:uppercase; text-shadow:0 0 2px #d3d3d2;}
 
 .dnaleftblock1 .dnablock1_textblock{ height:400px;}
 .dnaleftblock1  .textarrow1{ margin:0 0 0 85px;}
@@ -418,9 +418,9 @@ a.home_banner_btn:hover{color: #fff;}
 
 .dnarightblock1{ width:375px; float:right; background:#fdcd5a; border:solid 5px #fff; border-radius:6px;}
 
-.dnarightblock1 .dnablock1_heading{ background:url(system/themes/dnaofsuccess/images/dnatextbg1.png) no-repeat; width:100%; height:168px; background-size:cover; border-radius:4px 4px 0 0; overflow:hidden; padding:20px 26px;}
+.dnarightblock1 .dnablock1_heading{ background:url(system/themes/dnaofsuccess/images/dnatextbg1.png) no-repeat; width:100%; height:168px; background-size:cover; border-radius:4px 4px 0 0; overflow:hidden; padding:20px 6px;}
 
-.dnarightblock1 .dnablock1_heading h2{ background:url(system/themes/dnaofsuccess/images/dnaimg2.png) no-repeat left center; padding:0 0 0 120px; margin:0; font-size:28px; color:#fff; font-family:'OpenSans-Bold'; text-shadow:0 0 2px #d3d3d2; text-transform:uppercase;}
+.dnarightblock1 .dnablock1_heading h2{ background:url(system/themes/dnaofsuccess/images/dnaimg2.png) no-repeat left center;  padding: 15px 0 15px 112px; margin:0; font-size:24px; color:#fff; font-family:'OpenSans-Bold'; text-shadow:0 0 2px #d3d3d2; text-transform:uppercase;}
 
 .dnarightblock1 .dnablock1_textblock{ height:400px;}
 .dnarightblock1  .textarrow1{ margin:0 0 0 85px;}
@@ -439,11 +439,24 @@ a.home_banner_btn:hover{color: #fff;}
 
 .dna_home_block1 .home-block_text1{ width:400px; float:right; text-align:center; margin:20px 50px 0 0;}
 
-.dna_home_block1 .home-block_text1 h2{ font-size:34px; color:#070707; line-height:36px; text-transform:uppercase; font-family:'OpenSans-Bold'; } 
+.dna_home_block1 .home-block_text1 h2{ font-size:34px; color:#070707; line-height:36px; text-transform:uppercase; font-family:'OpenSans-Bold'; }
 
 .dna_home_block1 .home-block_text1 h2 span{ color:#d10711;}
 
 
+.newh2text{ font-size: 34px;
+    color: #070707;
+    line-height: 36px;
+    text-transform: uppercase;
+    font-family: 'OpenSans-Bold'; }
+
+.newh2text span{ color: #d10711;}
+
+.newptext{     font-size: 18px;
+    color: #070707;
+    font-family: 'OpenSans-Semibold';
+    line-height: 30px;
+}
 .dna_home_block1 .home-block_text1 p{ font-size:18px; color:#070707;  font-family:'OpenSans-Semibold'; line-height:30px;}
 
 .dna_home_block1 .block_btn{ background:#4d5e67; display:block; float:right; width:360px; padding: 5px 0 10px 0; margin: 15px 25px 0 0; font-size:26px; color:#ffffff; font-family:'OpenSans-Semibold'; text-align:center;}

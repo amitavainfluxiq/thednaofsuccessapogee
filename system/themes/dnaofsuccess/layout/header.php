@@ -30,7 +30,9 @@ $AI->skin->js('system/themes/dnaofsuccess/js/bootstrap.min.js');
             <div class="container home_top_block">
                 <div class="row">
                     <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 home_top_block_col">
-                        <p><img src="system/themes/dnaofsuccess/images/home_star.png" alt="#">Featured on over <span>2,000</span> Television Shows and Radio Stations!</p>
+
+                        <?php
+                        $hometopblock = '  <p><img src="system/themes/dnaofsuccess/images/home_star.png" alt="#">Featured on over <span>2,000</span> Television Shows and Radio Stations!</p>
                         <span class="top_logo_div">
                             <a href="javascript:void(0);"><img src="system/themes/dnaofsuccess/images/cnn_logo.png" alt="#"></a>
                             <a href="javascript:void(0);"><img src="system/themes/dnaofsuccess/images/today_logo.png" alt="#"></a>
@@ -40,7 +42,12 @@ $AI->skin->js('system/themes/dnaofsuccess/js/bootstrap.min.js');
                             <a href="javascript:void(0);"><img src="system/themes/dnaofsuccess/images/dateline_logo.png" alt="#"></a>
                             <a href="javascript:void(0);"><img src="system/themes/dnaofsuccess/images/2020_logo.png" alt="#"></a>
                             <a href="javascript:void(0);"><img src="system/themes/dnaofsuccess/images/foxnews_logo.png" alt="#"></a>
-                        </span>
+                        </span>';
+                        echo $AI->get_defaulted_dynamic_area('hometopblock',$hometopblock);
+                        ?>
+
+
+
                     </div>
                 </div>
             </div>
@@ -55,7 +62,7 @@ $AI->skin->js('system/themes/dnaofsuccess/js/bootstrap.min.js');
             <div class="container menu_block">
                 <div class="row">
                     <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 home_banner_logo_section">
-                        <a href="javascript:void(0);">
+                        <a href="/home">
 
                             <?php
                             $logoheader = '<img src="system/themes/dnaofsuccess/images/logo.png" alt="#">';
@@ -77,7 +84,10 @@ $AI->skin->js('system/themes/dnaofsuccess/js/bootstrap.min.js');
 
                                 </div>
                                 <div class="collapse navbar-collapse" id="myNavbar">
-                                    <ul class="nav navbar-nav">
+
+
+                                    <?php
+                                    $menuheader = '<ul class="nav navbar-nav">
                                         <li><a href="javascript:void(0);">Home</a></li>
                                         <li><a href="javascript:void(0);">Products</a></li>
                                         <li><a href="javascript:void(0);">The Whole Story</a></li>
@@ -85,7 +95,13 @@ $AI->skin->js('system/themes/dnaofsuccess/js/bootstrap.min.js');
                                         <li><a href="javascript:void(0);">Success Genetics</a></li>
                                         <li><a href="javascript:void(0);">About Jack Zufelt</a></li>
                                         <li><a href="javascript:void(0);">Contact Us</a></li>
-                                    </ul>
+                                    </ul>';
+                                    echo $AI->get_defaulted_dynamic_area('menuheader',$menuheader);
+                                    ?>
+
+
+
+
                                 </div>
                             </div>
                         </nav>
