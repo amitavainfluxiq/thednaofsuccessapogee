@@ -46,6 +46,9 @@
 
 @media screen and (max-width:1199px){
 
+
+
+    .menu_block .home_banner_menu_section .navbar-nav > li > a{font-size: 22px; padding: 15px;}
 .home_banner_bottom_section_col{background: url("system/themes/dnaofsuccess/images/home_keyicon.png") no-repeat top center; padding: 112px 15px 5px 15px; text-align:center;}
 
 .home_body_block1_bottom_section .home_body_block1_bottom_section_col{background: url("system/themes/dnaofsuccess/images/home_computericon.png") no-repeat top center; padding: 120px 15px 0px 15px; text-align:center;}
@@ -76,9 +79,9 @@
 
     .menu_block .home_banner_menu_section .navbar{width: 100%; background: #dad8d8;}
     .menu_block .home_banner_menu_section .navbar .container-fluid .navbar-collapse{ background: #e8e8e8;}
-    .menu_block .home_banner_menu_section .navbar .menu_text {display: inline-block; color: #51a2bd; float: left;}
+    .menu_block .home_banner_menu_section .navbar .menu_text {display: inline-block; color: #51a2bd; float: left; font-size: 40px; padding-top: 5px;}
     .menu_block .home_banner_menu_section .navbar .navbar-toggle{  background-color: #666; background-image: none; border: 1px solid transparent;
-        border-radius: 4px; float: right; margin-bottom: 8px; margin-right: 0px; margin-top: 8px; padding: 9px 10px; position: relative; display: block;}
+        border-radius: 4px; float: right; margin-bottom: 8px; margin-right: 0px; margin-top: 10px; padding: 15px 15px; position: relative; display: block;}
     .menu_block .home_banner_menu_section .navbar .navbar-toggle .icon-bar{background: #fff;}
 
     .menu_block .home_banner_menu_section .navbar-nav{width: 100%;}
