@@ -46,7 +46,7 @@
 
 @media screen and (max-width:1199px){
 
-
+    .contact_body_block1_bottom_left .contact_body_block1_address1{width:100%;}
 
     .menu_block .home_banner_menu_section .navbar-nav > li > a{font-size: 22px; padding: 15px;}
 .home_banner_bottom_section_col{background: url("system/themes/dnaofsuccess/images/home_keyicon.png") no-repeat top center; padding: 112px 15px 5px 15px; text-align:center;}
@@ -405,7 +405,10 @@
 
 
 @media screen and (max-width:991px) {
-
+    .container {
+        width: 100%;
+        margin: 0 auto;
+    }
 
 .menu_section{ padding:0;}
 

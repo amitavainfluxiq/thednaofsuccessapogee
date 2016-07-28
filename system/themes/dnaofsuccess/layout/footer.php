@@ -23,8 +23,6 @@
             echo $AI->get_defaulted_dynamic_area('footerlogo',$footerlogo);
             ?>
 
-
-
                 <?php
                 $footercopyright = '    <p>&copy; 2016 The dna  of success. All rights reserved. </p>';
                 echo $AI->get_defaulted_dynamic_area('footercopyright',$footercopyright);

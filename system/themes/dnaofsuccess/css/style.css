@@ -261,7 +261,7 @@ a.home_banner_btn{width: 425px; background: #4d4f67; text-align: center; font-fa
 a.home_banner_btn:hover{color: #fff;}
 
 .home_banner_bottom{background: #dce1e2; border-top: 1px solid #fff; padding-top: 12px; padding-bottom: 12px;}
-.home_banner_bottom_section_col{background: url("system/themes/dnaofsuccess/images/home_keyicon.png") no-repeat left center; padding: 8px 15px 8px 115px;}
+.home_banner_bottom_section_col{background: url("system/themes/dnaofsuccess/images/home_keyicon.png") no-repeat left center; padding: 15px 15px 15px 115px;}
 .home_banner_bottom_section_col h1{font-family:'MyriadPro-Regular'; font-size: 30px; color: #4d4f67; margin: 0px;}
 .home_banner_bottom_section_col h1 span{font-family:'MyriadPro-Semibold'; font-size: 36px; color: #e75248; text-transform: uppercase;}
 .home_banner_bottom_section_col p{font-family:'MyriadPro-Regular'; font-size: 18px; color: #4d4f67; margin: 0px;}
@@ -342,7 +342,7 @@ a.home_banner_btn:hover{color: #fff;}
 .contact_body_block1_sec .contact_body_block1_bottom h2{font-family:'OpenSans-Regular'; font-size: 16px; color: #070707; margin: 0px; font-style: italic; line-height: 24px;}
 .contact_body_block1_sec .contact_body_block1_bottom h3{font-family:'OpenSans-Regular'; font-size: 16px; color: #5b9089; margin: 30px 0 0 0; line-height: 24px;}
 .contact_body_block1_bottom_left{float: left; width: 50%;}
-.contact_body_block1_bottom_left .contact_body_block1_address1{float: left;}
+.contact_body_block1_bottom_left .contact_body_block1_address1{float: left; width:53%;}
 .contact_body_block1_bottom_left .contact_body_block1_address2{float: right;}
 .contact_body_block1_bottom_left .contact_tell{background: url("system/themes/dnaofsuccess/images/contact_icon1.png") no-repeat left center; padding: 10px 0 10px 40px; display: block; color: #070707; font-family:'OpenSans-Regular'; font-size: 16px; margin-bottom: 10px;}
 .contact_body_block1_bottom_left .contact_mail{background: url("system/themes/dnaofsuccess/images/contact_icon2.png") no-repeat left center; padding: 10px 0 10px 40px; display: block; color: #070707; font-family:'OpenSans-Regular'; font-size: 16px;}
@@ -890,7 +890,7 @@ font-size:13px;
 
 
 
-.mentor_banner_section{padding: 0px; background: url(".system/themes/dnaofsuccess/images/mentor_banner1.png") no-repeat top center; padding-bottom: 76px; background-size:cover;}
+.mentor_banner_section{padding: 0px; background: url("system/themes/dnaofsuccess/images/mentor_banner1.png") no-repeat top center; padding-bottom: 76px; background-size:cover;}
 .mentor_banner_section .mentor_banner_col{padding: 0px;}
 .mentor_banner_section{position: relative; top:0px; z-index: 11; padding: 0px;}
 .mentor_banner_section .mentor_banner_inner_top_content{background: #0092df; margin: 0px; padding: 20px 10px;}
@@ -916,7 +916,7 @@ font-size:13px;
 
 .mentortextwrapper2 .mentor_icon1{ display:inline-block; float:left;}
 
-.mentortextwrapper2 p{ display:block; width:980px; float:left; font-size:26px; color:#4d4f67;  font-family:'MyriadPro-Regular'; padding:14px 0 0 32px;  }
+.mentortextwrapper2 p{ display:block; width:980px; float:left; font-size:26px; color:#4d4f67;  font-family:'MyriadPro-Regular'; padding:0px 0 0 32px; line-height: 26px;  }
 
 
 .mentortextwrapper3{ background:url(system/themes/dnaofsuccess/images/mentor_img2.png) no-repeat left top; background-size:60%;}
@@ -1269,3 +1269,6 @@ span.callaction {
 #lp_manager_page_tie_landing2page_select{ display: inline!important}
 input.edit_lp_manager_page_button_add, input.edit_lp_manager_page_button_new{ line-height: 10px!important; display: inline!important}
 
+
+
+.dynamic_area_content{min-height: 1px !important;}
