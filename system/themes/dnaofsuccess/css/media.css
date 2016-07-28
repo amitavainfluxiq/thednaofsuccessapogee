@@ -68,10 +68,10 @@
 
 .dnaleftblock1 p{ text-align:center;}
 
-.menu_block{ width:100%; margin-left:0; margin-right:0; padding:0;}
-.menu_section{ padding:0 15px;}
+    .menu_block{ width:100%; margin-left:0; margin-right:0; padding:0;}
+    .menu_section{ padding:0 15px;}
 
-.menu_section .col-lg-12{ padding:10px 15px;}
+    .menu_section .col-lg-12{ padding:10px 15px;}
     .home_top_block_col{padding: 0px 0;}
     .home_top_section p{display: block; text-align: center;}
     .home_top_section .top_logo_div{width: 642px; margin: 0 auto; display: block;}
@@ -79,9 +79,9 @@
 
     .menu_block .home_banner_menu_section .navbar{width: 100%; background: #dad8d8;}
     .menu_block .home_banner_menu_section .navbar .container-fluid .navbar-collapse{ background: #e8e8e8;}
-    .menu_block .home_banner_menu_section .navbar .menu_text {display: inline-block; color: #51a2bd; float: left; font-size: 40px; padding-top: 5px;}
+    .menu_block .home_banner_menu_section .navbar .menu_text {display: inline-block; color: #51a2bd; float: left;}
     .menu_block .home_banner_menu_section .navbar .navbar-toggle{  background-color: #666; background-image: none; border: 1px solid transparent;
-        border-radius: 4px; float: right; margin-bottom: 8px; margin-right: 0px; margin-top: 10px; padding: 15px 15px; position: relative; display: block;}
+        border-radius: 4px; float: right; margin-bottom: 8px; margin-right: 0px; margin-top: 8px; padding: 9px 10px; position: relative; display: block;}
     .menu_block .home_banner_menu_section .navbar .navbar-toggle .icon-bar{background: #fff;}
 
     .menu_block .home_banner_menu_section .navbar-nav{width: 100%;}
@@ -96,6 +96,7 @@
     .navbar-nav>li {float: none;}
     .navbar-nav>li>a {padding-top: 10px; padding-bottom: 10px;}
     .collapse.in { display: block !important;}
+
 
 
     .home_body_block1_col{padding: 30px 15px;}
@@ -463,6 +464,9 @@
 
 
 @media screen and (max-width:600px) {
+
+    .success_msg_text{ position: inherit; bottom: 0px; text-align: center; padding: 35px; padding-bottom: 0px; width:auto; background: #111;}
+
     .callaction a {
         width: 100%;
         height: auto;
