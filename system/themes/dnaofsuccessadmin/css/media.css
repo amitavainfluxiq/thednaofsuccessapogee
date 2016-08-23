@@ -1,0 +1,274 @@
+@media screen and (max-width:1860px){
+    .body_block_list .container{ padding:25px 560px 0 0!important;}
+
+}
+
+@media screen and (max-width:1680px){
+.top_banner_block{ background:url(system/themes/dnaofsuccessadmin/images/member_banner.jpg) no-repeat 80% top;}
+.body_block_list{ background:url(system/themes/dnaofsuccessadmin/images/bg3.png) no-repeat 120% bottom;}
+}
+
+
+@media screen and (max-width:1524px){
+.top_banner_block{ background:url(system/themes/dnaofsuccessadmin/images/member_banner.jpg) no-repeat 70% top;}
+.body_block_list{ background:url(system/themes/dnaofsuccessadmin/images/bg3.png) no-repeat 150% bottom;}
+}
+
+
+@media screen and (max-width:1380px){
+
+.body_block_list{ background:url(system/themes/dnaofsuccessadmin/images/bg3.png) no-repeat 180% bottom;}
+
+.body_block_list .container{ padding:25px 580px 0 0!important;}
+}
+
+
+@media screen and (max-width:1260px){
+.top_banner_block{ background:url(system/themes/dnaofsuccessadmin/images/member_banner.jpg) no-repeat 54% top;}
+
+}
+
+@media screen and (max-width:1199px){
+.body_block_list .container{ padding:25px 0 300px  0!important;}
+.body_block1{ text-align:center; }
+
+.body_block_list{ background:url(system/themes/dnaofsuccessadmin/images/bg3.png) no-repeat center bottom; padding-bottom:0; background-size:470px; text-align:center; padding-left:10px!important; padding-right:10px!important;}
+.body_block1 h1{padding-left:10px!important; padding-right:10px!important;}
+.body_block1 h2{padding-left:10px!important; padding-right:10px!important;}
+.body_block1 h3{padding-left:10px!important; padding-right:10px!important;}
+.body_block_list .container ul li img{ display:block; margin:0 auto; float:none;}
+
+.body_block3 h1{ text-align:center; padding:0 10px;}
+
+.body_block3 .blockbtn1{ background:url(system/themes/dnaofsuccessadmin/images/btnbg.png) repeat-x; width:100%; height:104px;  margin-top:30px;  margin-bottom:10px; border-radius:5px; padding:1px 0 5px 0; float:none;}
+.body_block3 .blockbtn1 span{ width:870px;}
+
+.body_block3 .blockbtn2{ background:url(system/themes/dnaofsuccessadmin/images/btnbg.png) repeat-x; width:100%; height:104px;  margin-top:30px;  margin-bottom:10px; border-radius:5px; padding:1px 0 5px 0; float:none;}
+.body_block3 .blockbtn2 span{ width:870px;}
+
+
+.body_block3 .blockbtn3{ background:url(system/themes/dnaofsuccessadmin/images/btnbg.png) repeat-x; width:100%; height:104px;  margin-top:30px;  margin-bottom:10px; border-radius:5px; padding:1px 0 5px 0; float:none;}
+.body_block3 .blockbtn3 span{ width:870px;}
+
+.body_block3 .blockbtn4{ background:url(system/themes/dnaofsuccessadmin/images/btnbg.png) repeat-x; width:100%; height:104px;  margin-top:30px;  margin-bottom:10px; border-radius:5px; padding:1px 0 5px 0; float:none;}
+.body_block3 .blockbtn4 span{ width:870px;}
+
+.body_block3 .blockbtn5{ background:url(system/themes/dnaofsuccessadmin/images/btnbg.png) repeat-x; width:100%; height:104px;  margin-top:30px;  margin-bottom:10px; border-radius:5px; padding:1px 0 5px 0; float:none;}
+.body_block3 .blockbtn5 span{ width:870px;}
+
+.body_block3 .blockbtn6{ background:url(system/themes/dnaofsuccessadmin/images/btnbg.png) repeat-x; width:100%; height:104px;  margin-top:30px;  margin-bottom:10px; border-radius:5px; padding:1px 0 5px 0; float:none;}
+.body_block3 .blockbtn6 span{ width:870px;}
+
+
+.body_block3 .blockbtn7{ background:url(system/themes/dnaofsuccessadmin/images/btnbg.png) repeat-x; width:100%; height:104px;  margin-top:30px;  margin-bottom:10px; border-radius:5px; padding:1px 0 5px 0; float:none;}
+.body_block3 .blockbtn7 span{ width:870px;}
+
+.banner_text-block1 h2{ padding-left:570px; padding-top: 62px;}
+
+.banner_text-block3 h2{ padding: 57px 32px 0 740px;}
+
+.banner_text-block4 h2 {
+   
+    margin: 0 21px 0 428px;
+    padding: 27px 0 0 0;
+
+    width: auto;
+}
+
+.banner_text-block7 h2 {
+
+    padding: 60px 40px 0 490px;
+
+}
+
+
+    .welcomecon{ width:100%; float:none;}
+
+    .lessons_con{ width:100%; float:none; margin-top: 30px;}
+
+    .lessons_con img{ display: block; margin: 0 auto; max-width: 100%;}
+}
+
+@media screen and (max-width:1160px){
+.top_banner_block{ background: #fff url(system/themes/dnaofsuccessadmin/images/member_banner.jpg) no-repeat right top; height:auto;}
+
+.top_banner_block .topbanner_textblock{ width:485px; margin:0 auto; margin-top:380px; margin-bottom:26px; text-align:center;}
+
+}
+
+
+@media screen and (max-width:991px){
+.body_block3 .blockbtn1 span {
+    width: 650px;
+}
+
+.body_block3 .blockbtn2 span {
+    width: 650px;
+}
+
+.body_block3 .blockbtn3 span {
+    width: 650px;
+}
+
+.body_block3 .blockbtn4 span {
+    width: 650px;
+}
+
+.body_block3 .blockbtn5 span {
+    width: 650px;
+}
+
+.body_block3 .blockbtn6 span {
+    width: 650px;
+}
+
+.body_block3 .blockbtn7 span {
+    width: 650px;
+}
+
+.block3_text1{ width:auto;}
+.block3_text1 td{ display:block; width:100%; text-align:center;}
+
+.block3_text1 .tdtext{ padding:26px 0 0 0; }
+
+.banner_text-block1{ height:auto; background-color:#ced4d6;}
+.banner_text-block1 h2{ text-align:center; padding:230px 0 22px 0;  }
+
+
+.banner_text-block2{ height:auto; background-color:#ced4d6; background-position:right top;}
+.banner_text-block2 h2{ text-align:center; padding:230px 0 22px 0; width:auto;  }
+
+.banner_text-block3{ height:auto; background-color:#ced4d6; background-position:left top;}
+.banner_text-block3 h2{ text-align:center; padding:230px 0 22px 0; width:auto;  }
+
+
+
+.banner_text-block4{ height:auto; background-color:#ced4d6; background-position:left top;}
+.banner_text-block4 h2{ text-align:center; padding:230px 0 22px 0; width:auto; float:none; margin:0px;  }
+
+
+.banner_text-block5{ height:auto; background-color:#ced4d6; background-position:right top;}
+.banner_text-block5 h2{ text-align:center; padding:230px 0 22px 0; width:auto;  }
+
+
+
+.banner_text-block6{ height:auto; background-color:#ced4d6; background-position:left top;}
+.banner_text-block6 h2{ text-align:center; padding:230px 0 22px 0; width:auto;  }
+
+
+.banner_text-block7{ height:auto; background-color:#ced4d6; background-position:left top;}
+.banner_text-block7 h2{ text-align:center; padding:230px 0 22px 0; width:auto;  }
+
+.body_block3 .text_part{ text-align:center;}
+
+.textdevider{ margin:0 auto;}
+
+.body_block3 .text_part ul li{ background:none; padding-left:0px;}
+
+.body_block3 .text_part ul li::first-letter{ background: rgba(0, 0, 0, 0) url("system/themes/dnaofsuccessadmin/images/libg.png") no-repeat scroll left center;
+    padding-left: 25px;}
+
+}
+
+@media screen and (max-width:767px){
+
+    .container{ width: 100%;}
+
+.body_block3 .blockbtn1{ width:90%; margin:0 auto; margin-top:30px; height:auto; background-position:center bottom; background-color:#0e85ca; background-image: none;}
+
+.body_block3 .blockbtn1 a{ background:url(system/themes/dnaofsuccessadmin/images/icon1.png) no-repeat  center 10px; display:block; width:100%; height:100%; padding:60px 5px 0 5px; }
+.body_block3 .blockbtn1 span{ display:block; width:100%; height:auto; background:none; text-align:center; }
+
+
+.body_block3 .blockbtn2{ width:90%; margin:0 auto; margin-top:30px; height:auto; background-position:center bottom; background-color:#0e85ca; background-image: none;}
+
+.body_block3 .blockbtn2 a{ background:url(system/themes/dnaofsuccessadmin/images/icon1.png) no-repeat  center 10px; display:block; width:100%; height:100%; padding:60px 5px 0 5px; }
+.body_block3 .blockbtn2 span{ display:block; width:100%; height:auto; background:none; text-align:center; }
+
+
+.body_block3 .blockbtn3{ width:90%; margin:0 auto; margin-top:30px; height:auto; background-position:center bottom; background-color:#0e85ca; background-image: none;}
+
+.body_block3 .blockbtn3 a{ background:url(system/themes/dnaofsuccessadmin/images/icon1.png) no-repeat  center 10px; display:block; width:100%; height:100%; padding:60px 5px 0 5px; }
+.body_block3 .blockbtn3 span{ display:block; width:100%; height:auto; background:none; text-align:center; }
+
+
+
+.body_block3 .blockbtn4{ width:90%; margin:0 auto; margin-top:30px; height:auto; background-position:center bottom; background-color:#0e85ca; background-image: none;}
+
+.body_block3 .blockbtn4 a{ background:url(system/themes/dnaofsuccessadmin/images/icon1.png) no-repeat  center 10px; display:block; width:100%; height:100%; padding:60px 5px 0 5px; }
+.body_block3 .blockbtn4 span{ display:block; width:100%; height:auto; background:none; text-align:center; }
+
+
+
+.body_block3 .blockbtn5{ width:90%; margin:0 auto; margin-top:30px; height:auto; background-position:center bottom; background-color:#0e85ca; background-image: none;}
+
+.body_block3 .blockbtn5 a{ background:url(system/themes/dnaofsuccessadmin/images/icon1.png) no-repeat  center 10px; display:block; width:100%; height:100%; padding:60px 5px 0 5px; }
+.body_block3 .blockbtn5 span{ display:block; width:100%; height:auto; background:none; text-align:center; }
+
+
+.body_block3 .blockbtn6{ width:90%; margin:0 auto; margin-top:30px; height:auto; background-position:center bottom; background-color:#0e85ca; background-image: none;}
+
+.body_block3 .blockbtn6 a{ background:url(system/themes/dnaofsuccessadmin/images/icon1.png) no-repeat  center 10px; display:block; width:100%; height:100%; padding:60px 5px 0 5px; }
+.body_block3 .blockbtn6 span{ display:block; width:100%; height:auto; background:none; text-align:center; }
+
+
+.body_block3 .blockbtn7{ width:90%; margin:0 auto; margin-top:30px; height:auto; background-position:center bottom; background-color:#0e85ca; background-image: none;}
+
+.body_block3 .blockbtn7 a{ background:url(system/themes/dnaofsuccessadmin/images/icon1.png) no-repeat  center 10px; display:block; width:100%; height:100%; padding:60px 5px 0 5px; }
+.body_block3 .blockbtn7 span{ display:block; width:100%; height:auto; background:none; text-align:center; }
+
+.banner_text-block1{ width:99%; margin-left:auto; margin-right:auto;}
+.banner_text-block2{ width:99%; margin-left:auto; margin-right:auto;}
+.banner_text-block3{ width:99%; margin-left:auto; margin-right:auto;}
+.banner_text-block4{ width:99%; margin-left:auto; margin-right:auto;}
+.banner_text-block5{ width:99%; margin-left:auto; margin-right:auto;}
+.banner_text-block6{ width:99%; margin-left:auto; margin-right:auto;}
+.banner_text-block7{ width:99%; margin-left:auto; margin-right:auto;}
+.body_block3 .text_part{ padding-left:10px; padding-right:10px;}
+
+.text_block_btn{ width:99%; margin-left:auto; margin-right:auto;}
+
+.buttom_text4{ width:auto; background:url(system/themes/dnaofsuccessadmin/images/texticon.png) no-repeat center top; padding:104px 0 0 0; text-align:center; line-height:40px;}
+
+}
+
+@media screen and (max-width:600px){
+.top_banner_block{ background: #fff url(system/themes/dnaofsuccessadmin/images/member_banner.jpg) no-repeat -1300px top; height:auto;}
+
+.top_banner_block .topbanner_textblock{ width:90%; margin:0 auto;margin-top:380px; margin-bottom:26px;}
+
+.top_banner_block .topbanner_textblock .toplogo{ max-width:100%;}
+.body_block3 .text_part .ulone li{ width:100%; float:none;}
+}
+
+
+@media screen and (max-width:479px){
+.top_banner_block{ background: #fff url(system/themes/dnaofsuccessadmin/images/member_banner.jpg) no-repeat -1400px top; height:auto;}
+
+.block3_text1{ width:auto; padding:16px;}
+.block3_text1 .tdtext{ padding:16px 0 0 0; padding-bottom:0px;}
+.block3_text1 img{ max-width:100%;}
+
+.banner_text-block1{ background-position:16% top;}
+.banner_text-block2{ background-position:90% top;}
+
+.banner_text-block3{ background-position:12% top;}
+
+.banner_text-block4{ background-position:16% top;}
+
+
+.banner_text-block5{ background-position:96% top;}
+
+.banner_text-block6{ background-position:9% top;}
+
+.banner_text-block7{ background-position:15% top;}
+
+}
+
+
+@media screen and (max-width:360px){
+.top_banner_block{ background: #fff url(system/themes/dnaofsuccessadmin/images/member_banner.jpg) no-repeat -1450px top; height:auto;}
+
+
+}
+
