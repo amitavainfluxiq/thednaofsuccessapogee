@@ -238,12 +238,102 @@ input.edit_lp_manager_page_button_add, input.edit_lp_manager_page_button_new{ li
 .buttom_text4{ width:720px; margin:0 auto; margin-top:30px; font-size:36px; color:#1b1b1b; font-family: 'ralewaysemibold'; background:url(system/themes/dnaofsuccessadmin/images/texticon.png) no-repeat center left; padding:38px 0 38px 119px;}
 
 
-.text_block_btn .btn-primary{ background:url(system/themes/dnaofsuccessadmin/images/conicon1.jpg) no-repeat; width:18px; height:17px; border:none; padding:0px; border-radius:0px; font-size:0px; outline:none;}
+.text_block_btn .btn-primary{ background:url(system/themes/dnaofsuccessadmin/images/conicon2.jpg) no-repeat; width:18px; height:17px; border:none; padding:0px; border-radius:0px; font-size:0px; outline:none;}
 
 
-.collapsed{ background:url(system/themes/dnaofsuccessadmin/images/conicon2.jpg) no-repeat!important; width:18px; height:17px; outline:none;   }
+.collapsed{ background:url(system/themes/dnaofsuccessadmin/images/conicon1.jpg) no-repeat!important; width:18px; height:17px; outline:none;   }
 
 
-.welcomecon{ width:640px; float:left;}
+.welcomecon{ width:620px; float:left;}
 
 .lessons_con{ width:504px; float:right; margin-top: 8px;}
+
+
+
+/*----------------------admin page 2---------------*/
+
+.top_banner_block2{ background:url(system/themes/dnaofsuccessadmin/images/mentor_banner.jpg) no-repeat right top; border-bottom:solid 3px #fff; height:350px; background-size:1920px;}
+
+.top_banner_block2 .topbanner_textblock2{ width:485px; margin-top:38px; text-align:center;}
+
+.top_banner_block2 .topbanner_textblock2 .toplogo2{ display:block; margin:0 auto;}
+
+
+.top_banner_block2 .topbanner_textblock2 h1{ text-align:center; margin:34px 0 0 0; padding:0; font-size:36px; color:#000000; text-transform:uppercase;       font-family: 'ralewaysemibold'; line-height:36px;}
+
+.top_banner_block2 .topbanner_textblock2 h1 span{ color:#029dc9;}
+
+
+.top_banner_block2 .topbanner_textblock2 h3{ text-align:center; margin:23px 0 0 0; padding:0; font-size:14px; color:#323232;      font-family: 'ralewaysemibold'; line-height:24px;}
+
+
+
+
+
+/*-----------------------*/
+
+.body_block1 h2 span{ font-size: 24px;}
+
+.body_block1 h4{ font-size: 22px; color:#37383b; font-family: 'ralewaysemibold'; margin:0; padding:22px 0 0 0;}
+
+.body_block1 h5{ font-size: 16px; color:#299fe1;    font-family: 'ralewaysemibold';  margin:0; padding:22px 0 0 0; line-height:30px;}
+
+.body_blockmentor{ background: #cfdac7 url(system/themes/dnaofsuccessadmin/images/mentor_bg3.png) no-repeat right bottom; padding-bottom:33px; min-height:1000px;}
+
+
+
+
+
+.body_block_list2 .container{ padding:25px 0 0 0!important;}
+
+.body_block_list2 .container ul{ margin:0; padding:0 400px 0 0;}
+
+.body_block_list2 .container ul li{ margin:0 0 30px 0; font-family: 'ralewayregular'; font-size:16px; color:#505050; line-height:26px;}
+
+.body_block_list2 .container ul li:last-of-type{ margin-bottom: 0px;}
+
+.body_block_list2 .container ul li span{ color:#ff5b4f;}
+
+.body_block_list2 .container ul li img{ float:left; margin:3px 10px 0 0;}
+
+
+.body_block_list2 .container h6{ font-size:25px; color:#3c3e41; line-height:30px; font-family: 'ralewaysemibold'; margin:10px 210px 30px 0;}
+
+
+.body_block3 .mentorblockbtn1{ background:url(system/themes/dnaofsuccessadmin/images/btnbg.png) repeat-x; width:570px; height:104px; float:left; margin-top:30px; margin-bottom:10px; border-radius:5px; padding:1px 0 5px 0;  }
+.body_block3 .mentorblockbtn1 a{ background:url(system/themes/dnaofsuccessadmin/images/mentor_icon1.png) no-repeat 27px center; display:block; width:100%; height:100%; padding-left:90px; font-size:18px; color:#fefefe; text-decoration:none; cursor:pointer;  font-family: 'ralewayregular'; }
+
+.body_block3 .mentorblockbtn1 span{ display:table-cell; width:478px; height:96px; background:url(system/themes/dnaofsuccessadmin/images/devider1.png) repeat-y; text-align:center; vertical-align:middle;}
+
+.body_block3 .mentorblockbtn2{ background:url(system/themes/dnaofsuccessadmin/images/btnbg.png) repeat-x; width:570px; height:104px; float:right; margin-top:30px; margin-bottom:10px; border-radius:5px; padding:1px 0 5px 0;}
+
+
+.body_block3 .mentorblockbtn2 a{ background:url(system/themes/dnaofsuccessadmin/images/mentor_icon2.png) no-repeat 28px center; display:block; width:100%; height:100%; padding-left:90px; font-size:18px; color:#fefefe; text-decoration:none; cursor:pointer;  font-family: 'ralewayregular'; }
+
+.body_block3 .mentorblockbtn2 span{ display:table-cell; width:478px; height:96px; background:url(system/themes/dnaofsuccessadmin/images/devider1.png) repeat-y; text-align:center; vertical-align:middle;}
+
+
+
+
+.mentor_bottombanner1{ width:100%; margin-top:30px; background:url(system/themes/dnaofsuccessadmin/images/member_bottom_banner1.jpg) no-repeat left top; height:205px; border:solid 1px #ced4d6;}
+
+.mentor_bottombanner1 h2{ text-align:right; font-size:36px; color:#1b1b1b; text-transform:uppercase;  font-family: 'ralewaysemibold'; padding:82px 86px 0 0; margin:0; }
+
+
+.mentor_bottombanner2{ width:100%; margin-top:30px; background:url(system/themes/dnaofsuccessadmin/images/member_bottom_banner2.jpg) no-repeat right top; height:205px; border:solid 1px #ced4d6;}
+
+.mentor_bottombanner2 h2{ text-align:left; font-size:36px; color:#1b1b1b; text-transform:uppercase;  font-family: 'ralewaysemibold'; padding:64px 0 0 50px;  margin:0;  width:676px; }
+
+.mentor_bottombanner3{ width:100%; margin-top:30px; background:url(system/themes/dnaofsuccessadmin/images/blockbanner3.jpg) no-repeat left top; height:205px; border:solid 1px #ced4d6;}
+
+.mentor_bottombanner3 h2{ text-align:right; font-size:36px; color:#1b1b1b; text-transform:uppercase;  font-family: 'ralewaysemibold'; padding:82px 40px 0 0;  margin:0; }
+
+.mentor_bottombanner4{ width:100%; margin-top:30px; background:url(system/themes/dnaofsuccessadmin/images/blockbanner6.jpg) no-repeat left top; height:205px; border:solid 1px #ced4d6;}
+
+.mentor_bottombanner4 h2{ text-align:right; font-size:36px; color:#1b1b1b; text-transform:uppercase;  font-family: 'ralewaysemibold'; padding:82px 40px 0 0;   margin:0;}
+
+
+
+.mentor_bottombanner5{ width:100%; margin-top:30px; background:url(system/themes/dnaofsuccessadmin/images/blockbanner5.jpg) no-repeat right top; height:205px; border:solid 1px #ced4d6;}
+
+.mentor_bottombanner5 h2{ text-align:left; font-size:36px; color:#1b1b1b; text-transform:uppercase;  font-family: 'ralewaysemibold'; padding:64px 0 0 50px;  margin:0;  width:676px; }

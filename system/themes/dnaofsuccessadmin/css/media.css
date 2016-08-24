@@ -5,13 +5,23 @@
 
 @media screen and (max-width:1680px){
 .top_banner_block{ background:url(system/themes/dnaofsuccessadmin/images/member_banner.jpg) no-repeat 80% top;}
+
+.top_banner_block2{ background:url(system/themes/dnaofsuccessadmin/images/mentor_banner.jpg) no-repeat 80% top;}
+
 .body_block_list{ background:url(system/themes/dnaofsuccessadmin/images/bg3.png) no-repeat 120% bottom;}
 }
 
 
 @media screen and (max-width:1524px){
 .top_banner_block{ background:url(system/themes/dnaofsuccessadmin/images/member_banner.jpg) no-repeat 70% top;}
+
+.top_banner_block2{ background:url(system/themes/dnaofsuccessadmin/images/mentor_banner.jpg) no-repeat 70% top;}
+
+
+
+
 .body_block_list{ background:url(system/themes/dnaofsuccessadmin/images/bg3.png) no-repeat 150% bottom;}
+
 }
 
 
@@ -25,6 +35,8 @@
 
 @media screen and (max-width:1260px){
 .top_banner_block{ background:url(system/themes/dnaofsuccessadmin/images/member_banner.jpg) no-repeat 54% top;}
+
+.top_banner_block2{ background:url(system/themes/dnaofsuccessadmin/images/mentor_banner.jpg) no-repeat 46% top;}
 
 }
 
@@ -84,7 +96,7 @@
 
     .welcomecon{ width:100%; float:none;}
 
-    .lessons_con{ width:100%; float:none; margin-top: 30px;}
+    .lessons_con{ width:100%; float:none; margin-top: 30px; margin-bottom: 30px;}
 
     .lessons_con img{ display: block; margin: 0 auto; max-width: 100%;}
 }
@@ -93,6 +105,11 @@
 .top_banner_block{ background: #fff url(system/themes/dnaofsuccessadmin/images/member_banner.jpg) no-repeat right top; height:auto;}
 
 .top_banner_block .topbanner_textblock{ width:485px; margin:0 auto; margin-top:380px; margin-bottom:26px; text-align:center;}
+
+
+    .top_banner_block2{ background: #fff url(system/themes/dnaofsuccessadmin/images/mentor_banner.jpg) no-repeat right top; height:auto;}
+
+    .top_banner_block2 .topbanner_textblock2{ width:485px; margin:0 auto; margin-top:370px; margin-bottom:26px; text-align:center;}
 
 }
 
@@ -238,12 +255,24 @@
 .top_banner_block .topbanner_textblock{ width:90%; margin:0 auto;margin-top:380px; margin-bottom:26px;}
 
 .top_banner_block .topbanner_textblock .toplogo{ max-width:100%;}
+
+
+
+    .top_banner_block2{ background: #fff url(system/themes/dnaofsuccessadmin/images/mentor_banner.jpg) no-repeat -1250px top; height:auto;}
+
+    .top_banner_block2 .topbanner_textblock2{ width:90%; margin:0 auto;margin-top:380px; margin-bottom:26px;}
+
+    .top_banner_block2 .topbanner_textblock2 .toplogo2{ max-width:100%;}
+
+
 .body_block3 .text_part .ulone li{ width:100%; float:none;}
 }
 
 
 @media screen and (max-width:479px){
-.top_banner_block{ background: #fff url(system/themes/dnaofsuccessadmin/images/member_banner.jpg) no-repeat -1400px top; height:auto;}
+    .top_banner_block{ background: #fff url(system/themes/dnaofsuccessadmin/images/member_banner.jpg) no-repeat -1400px top; height:auto;}
+
+.top_banner_block2{ background: #fff url(system/themes/dnaofsuccessadmin/images/mentor_banner.jpg) no-repeat -1250px top; height:auto;}
 
 .block3_text1{ width:auto; padding:16px;}
 .block3_text1 .tdtext{ padding:16px 0 0 0; padding-bottom:0px;}
@@ -269,6 +298,112 @@
 @media screen and (max-width:360px){
 .top_banner_block{ background: #fff url(system/themes/dnaofsuccessadmin/images/member_banner.jpg) no-repeat -1450px top; height:auto;}
 
+    .top_banner_block2{ background: #fff url(system/themes/dnaofsuccessadmin/images/mentor_banner.jpg) no-repeat -1250px top; height:auto;}
+
 
 }
 
+
+
+@media screen and (max-width:1524px){
+    .body_block_list2 .container ul{ margin:0; padding:0 480px 0 0;}
+
+    .body_block_list2 .container h6{margin:10px 300px 30px 0;}
+}
+
+@media screen and (max-width:1360px){
+    .body_block_list2 .container ul{ margin:0; padding:0 540px 0 0;}
+    .body_block_list2 .container h6{margin:10px 360px 30px 0;}
+}
+
+
+@media screen and (max-width:1199px){
+
+    .body_block_list2 .container {
+        padding: 0px 0 0 !important;
+    }
+
+    .body_block1 h5{ padding-left: 10px; padding-right: 10px; width: auto;}
+    .body_block_list2 .container ul{ margin:0; padding:0 10px 0 10px;}
+    .body_block_list2 .container h6{margin:10px 10px 30px 10px;}
+
+    .body_blockmentor{ background: #cfdac7 url(system/themes/dnaofsuccessadmin/images/mentor_bg3.png) no-repeat center bottom; padding-bottom:380px; min-height:inherit; background-size:400px; }
+
+    .body_block3 .mentorblockbtn1{ background:url(system/themes/dnaofsuccessadmin/images/btnbg.png) repeat-x; width:100%; height:104px;  margin-top:30px;  margin-bottom:10px; border-radius:5px; padding:1px 0 5px 0; float:none;}
+    .body_block3 .mentorblockbtn1 span{ width:870px;}
+
+    .body_block3 .mentorblockbtn2{ background:url(system/themes/dnaofsuccessadmin/images/btnbg.png) repeat-x; width:100%; height:104px;  margin-top:30px;  margin-bottom:10px; border-radius:5px; padding:1px 0 5px 0; float:none;}
+    .body_block3 .mentorblockbtn2 span{ width:870px;}
+
+    .body_block_list2 .container ul li img{ display:block; margin:0 auto; float:none;}
+
+    .mentor_bottombanner1 h2{ padding-left:570px; padding-top: 62px;}
+
+    .mentor_bottombanner2 h2{ font-size: 30px;
+        padding: 67px 32px 0 15px;
+        text-align: left;}
+
+    .mentor_bottombanner3 h2{ padding: 57px 32px 0 740px;}
+
+    .mentor_bottombanner4 h2{ padding-left:570px; padding-top: 62px;}
+
+    .mentor_bottombanner5 h2{
+        padding: 67px 32px 0 15px;
+        text-align: left;}
+}
+
+
+
+@media screen and (max-width:991px){
+    .body_block3 .mentorblockbtn1 span {
+        width: 650px;
+    }
+
+    .body_block3 .mentorblockbtn2 span {
+        width: 650px;
+    }
+
+
+    .mentor_bottombanner1{ height:auto; background-color:#ced4d6;}
+    .mentor_bottombanner1 h2{ text-align:center; padding:230px 0 22px 0; margin:0px;  }
+
+    .mentor_bottombanner2{ height:auto; background-color:#ced4d6;}
+    .mentor_bottombanner2 h2{ text-align:center; padding:230px 0 22px 0;  font-size: 36px;  margin:0px; width:auto;}
+
+    .mentor_bottombanner3{ height:auto; background-color:#ced4d6;}
+    .mentor_bottombanner3 h2{ text-align:center; padding:230px 0 22px 0;  font-size: 36px;  margin:0px;  width:auto;}
+
+
+    .mentor_bottombanner4{ height:auto; background-color:#ced4d6;}
+    .mentor_bottombanner4 h2{ text-align:center; padding:230px 0 22px 0;  font-size: 36px;  margin:0px;  width:auto;}
+
+
+    .mentor_bottombanner5{ height:auto; background-color:#ced4d6;}
+    .mentor_bottombanner5 h2{ text-align:center; padding:230px 0 22px 0;  font-size: 36px; margin:0px;   width:auto;}
+}
+
+@media screen and (max-width:767px){
+
+
+
+    .body_block3 .mentorblockbtn1 { width:90%; margin:0 auto; margin-top:30px; height:auto; background-position:center bottom; background-color:#0e85ca; background-image: none;}
+
+    .body_block3 .mentorblockbtn1 a{ background:url(system/themes/dnaofsuccessadmin/images/mentor_icon1.png) no-repeat  center 10px; display:block; width:100%; height:100%; padding:70px 5px 0 5px; }
+    .body_block3 .mentorblockbtn1 span{ display:block; width:100%; height:auto; background:none; text-align:center; }
+
+
+    .body_block3 .mentorblockbtn2{ width:90%; margin:0 auto; margin-top:30px; height:auto; background-position:center bottom; background-color:#0e85ca; background-image: none;}
+
+    .body_block3 .mentorblockbtn2 a{ background:url(system/themes/dnaofsuccessadmin/images/mentor_icon2.png) no-repeat  center 10px; display:block; width:100%; height:100%; padding:76px 5px 0 5px; }
+    .body_block3 .mentorblockbtn2 span{ display:block; width:100%; height:auto; background:none; text-align:center; }
+
+
+
+    .mentor_bottombanner1{ width:99%; margin-left:auto; margin-right:auto;}
+    .mentor_bottombanner2{ width:99%; margin-left:auto; margin-right:auto;}
+    .mentor_bottombanner3{ width:99%; margin-left:auto; margin-right:auto;}
+    .mentor_bottombanner4{ width:99%; margin-left:auto; margin-right:auto;}
+    .mentor_bottombanner5{ width:99%; margin-left:auto; margin-right:auto;}
+
+
+}
