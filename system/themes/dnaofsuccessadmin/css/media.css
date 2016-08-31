@@ -41,13 +41,38 @@
 }
 
 @media screen and (max-width:1199px){
+    .body_block3 .mentorblockbtnnew span{ width:875px;}
+
 .body_block_list .container{ padding:25px 0 300px  0!important;}
+
+    #widgkey_rcolumns_13 .body_block_list .container{ background-image: none; padding-bottom: 20px!important;}
 .body_block1{ text-align:center; }
+
+    .middle_block{ text-align:center; }
+
+    .middle_block2{ text-align:center; }
 
 .body_block_list{ background:url(system/themes/dnaofsuccessadmin/images/bg3.png) no-repeat center bottom; padding-bottom:0; background-size:470px; text-align:center; padding-left:10px!important; padding-right:10px!important;}
 .body_block1 h1{padding-left:10px!important; padding-right:10px!important;}
 .body_block1 h2{padding-left:10px!important; padding-right:10px!important;}
 .body_block1 h3{padding-left:10px!important; padding-right:10px!important;}
+
+    .middle_block h1{padding-left:10px!important; padding-right:10px!important;}
+    .middle_block h2{padding-left:10px!important; padding-right:10px!important;}
+    .middle_block h3{padding-left:10px!important; padding-right:10px!important;}
+
+    .middle_block3{ text-align:center; }
+
+    .middle_block2 h1{padding-left:10px!important; padding-right:10px!important;}
+    .middle_block2 h2{padding-left:10px!important; padding-right:10px!important;}
+    .middle_block2 h3{padding-left:10px!important; padding-right:10px!important;}
+
+
+    .middle_block3 h1{padding-left:10px!important; padding-right:10px!important;}
+    .middle_block3 h2{padding-left:10px!important; padding-right:10px!important;}
+    .middle_block3 h3{padding-left:10px!important; padding-right:10px!important;  padding-bottom: 30px!important;}
+
+
 .body_block_list .container ul li img{ display:block; margin:0 auto; float:none;}
 
 .body_block3 h1{ text-align:center; padding:0 10px;}
@@ -75,21 +100,91 @@
 .body_block3 .blockbtn7{ background:url(system/themes/dnaofsuccessadmin/images/btnbg.png) repeat-x; width:100%; height:104px;  margin-top:30px;  margin-bottom:10px; border-radius:5px; padding:1px 0 5px 0; float:none;}
 .body_block3 .blockbtn7 span{ width:870px;}
 
-.banner_text-block1 h2{ padding-left:570px; padding-top: 62px;}
+    .banner_text-block1{ height: auto;}
 
-.banner_text-block3 h2{ padding: 57px 32px 0 740px;}
+.banner_text-block1 h2{  background: rgba(14, 135, 205, 1) none repeat scroll 0 0;
+    border-radius: 0;
+    margin: 204px 0 0;
+    padding: 13px 12px 10px;
+    text-align: center;
+    width: 100%;}
+
+
+
+    .affiliate_conbanner1{ height: auto;}
+
+    .affiliate_conbanner1 h2{  background: rgba(14, 135, 205, 1) none repeat scroll 0 0;
+        border-radius: 0;
+        margin: 204px 0 0;
+        padding: 13px 12px 10px;
+        text-align: center;
+        width: 100%;}
+
+    .banner_text-block2{ height: auto;}
+
+    .banner_text-block2 h2{  background: rgba(14, 135, 205, 1) none repeat scroll 0 0;
+        border-radius: 0;
+        margin: 204px 0 0;
+        padding: 13px 12px 10px;
+        text-align: center;
+        width: 100%;}
+
+
+    .banner_text-block3{ height: auto;}
+.banner_text-block3 h2{  background: rgba(14, 135, 205, 1) none repeat scroll 0 0;
+    border-radius: 0;
+    margin: 204px 0 0;
+    padding: 13px 12px 10px;
+    text-align: center;
+    width: 100%;}
+
+    .banner_text-block4{ height: auto;}
 
 .banner_text-block4 h2 {
-   
-    margin: 0 21px 0 428px;
-    padding: 27px 0 0 0;
 
-    width: auto;
+    background: rgba(14, 135, 205, 1) none repeat scroll 0 0;
+    border-radius: 0;
+    margin: 204px 0 0;
+    padding: 13px 12px 10px;
+    text-align: center;
+    width: 100%;
 }
 
+    .banner_text-block5{ height: auto;}
+
+    .banner_text-block5 h2 {
+
+        background: rgba(14, 135, 205, 1) none repeat scroll 0 0;
+        border-radius: 0;
+        margin: 204px 0 0;
+        padding: 13px 12px 10px;
+        text-align: center;
+        width: 100%;
+    }
+
+
+    .banner_text-block6{ height: auto;}
+
+    .banner_text-block6 h2 {
+
+        background: rgba(14, 135, 205, 1) none repeat scroll 0 0;
+        border-radius: 0;
+        margin: 204px 0 0;
+        padding: 13px 12px 10px;
+        text-align: center;
+        width: 100%;
+    }
+
+
+    .banner_text-block7{ height: auto;}
 .banner_text-block7 h2 {
 
-    padding: 60px 40px 0 490px;
+    background: rgba(14, 135, 205, 1) none repeat scroll 0 0;
+    border-radius: 0;
+    margin: 204px 0 0;
+    padding: 13px 12px 10px;
+    text-align: center;
+    width: 100%;
 
 }
 
@@ -99,6 +194,19 @@
     .lessons_con{ width:100%; float:none; margin-top: 30px; margin-bottom: 30px;}
 
     .lessons_con img{ display: block; margin: 0 auto; max-width: 100%;}
+
+
+    #widgkey_rcolumns_8 .row .rcolumns {width:100%!important; float:none!important;}
+
+    #widgkey_rcolumns_8 .row .rcolumns:nth-of-type(1){ width:100%!important; float:none; margin-top: 0px; margin-bottom: 30px;}
+    #widgkey_rcolumns_8 .row .rcolumns:nth-of-type(2){ width:100%!important; float:none!important;}
+
+    #widgkey_rcolumns_13 .row .rcolumns {width:100%!important; float:none!important;}
+
+    #widgkey_rcolumns_13 .row .rcolumns:nth-of-type(1){ width:100%!important; float:none; margin-top: 0px; margin-bottom: 30px;}
+    #widgkey_rcolumns_13 .row .rcolumns:nth-of-type(2){ width:100%!important; float:none!important;}
+
+    .Affiliate_wrapper {width:100%!important; float:none!important;}
 }
 
 @media screen and (max-width:1160px){
@@ -111,10 +219,17 @@
 
     .top_banner_block2 .topbanner_textblock2{ width:485px; margin:0 auto; margin-top:370px; margin-bottom:26px; text-align:center;}
 
+
+    .top_banner_block3{ background: #fff url(system/themes/dnaofsuccessadmin/images/affiliate_banner.jpg) no-repeat right top; height:auto;}
+
+    .top_banner_block3 .topbanner_textblock3{ width:485px; margin:0 auto; margin-top:370px; margin-bottom:26px; text-align:center;}
+
 }
 
 
 @media screen and (max-width:991px){
+
+    .body_block3 .mentorblockbtnnew span{ width:656px;}
 .body_block3 .blockbtn1 span {
     width: 650px;
 }
@@ -148,33 +263,6 @@
 
 .block3_text1 .tdtext{ padding:26px 0 0 0; }
 
-.banner_text-block1{ height:auto; background-color:#ced4d6;}
-.banner_text-block1 h2{ text-align:center; padding:230px 0 22px 0;  }
-
-
-.banner_text-block2{ height:auto; background-color:#ced4d6; background-position:right top;}
-.banner_text-block2 h2{ text-align:center; padding:230px 0 22px 0; width:auto;  }
-
-.banner_text-block3{ height:auto; background-color:#ced4d6; background-position:left top;}
-.banner_text-block3 h2{ text-align:center; padding:230px 0 22px 0; width:auto;  }
-
-
-
-.banner_text-block4{ height:auto; background-color:#ced4d6; background-position:left top;}
-.banner_text-block4 h2{ text-align:center; padding:230px 0 22px 0; width:auto; float:none; margin:0px;  }
-
-
-.banner_text-block5{ height:auto; background-color:#ced4d6; background-position:right top;}
-.banner_text-block5 h2{ text-align:center; padding:230px 0 22px 0; width:auto;  }
-
-
-
-.banner_text-block6{ height:auto; background-color:#ced4d6; background-position:left top;}
-.banner_text-block6 h2{ text-align:center; padding:230px 0 22px 0; width:auto;  }
-
-
-.banner_text-block7{ height:auto; background-color:#ced4d6; background-position:left top;}
-.banner_text-block7 h2{ text-align:center; padding:230px 0 22px 0; width:auto;  }
 
 .body_block3 .text_part{ text-align:center;}
 
@@ -199,42 +287,44 @@
 
 .body_block3 .blockbtn2{ width:90%; margin:0 auto; margin-top:30px; height:auto; background-position:center bottom; background-color:#0e85ca; background-image: none;}
 
-.body_block3 .blockbtn2 a{ background:url(system/themes/dnaofsuccessadmin/images/icon1.png) no-repeat  center 10px; display:block; width:100%; height:100%; padding:60px 5px 0 5px; }
+.body_block3 .blockbtn2 a{ background:url(system/themes/dnaofsuccessadmin/images/icon2.png) no-repeat  center 10px; display:block; width:100%; height:100%; padding:60px 5px 0 5px; }
 .body_block3 .blockbtn2 span{ display:block; width:100%; height:auto; background:none; text-align:center; }
 
 
 .body_block3 .blockbtn3{ width:90%; margin:0 auto; margin-top:30px; height:auto; background-position:center bottom; background-color:#0e85ca; background-image: none;}
 
-.body_block3 .blockbtn3 a{ background:url(system/themes/dnaofsuccessadmin/images/icon1.png) no-repeat  center 10px; display:block; width:100%; height:100%; padding:60px 5px 0 5px; }
+.body_block3 .blockbtn3 a{ background:url(system/themes/dnaofsuccessadmin/images/icon3.png) no-repeat  center 10px; display:block; width:100%; height:100%; padding:60px 5px 0 5px; }
 .body_block3 .blockbtn3 span{ display:block; width:100%; height:auto; background:none; text-align:center; }
 
 
 
 .body_block3 .blockbtn4{ width:90%; margin:0 auto; margin-top:30px; height:auto; background-position:center bottom; background-color:#0e85ca; background-image: none;}
 
-.body_block3 .blockbtn4 a{ background:url(system/themes/dnaofsuccessadmin/images/icon1.png) no-repeat  center 10px; display:block; width:100%; height:100%; padding:60px 5px 0 5px; }
+.body_block3 .blockbtn4 a{ background:url(system/themes/dnaofsuccessadmin/images/icon4.png) no-repeat  center 10px; display:block; width:100%; height:100%; padding:60px 5px 0 5px; }
 .body_block3 .blockbtn4 span{ display:block; width:100%; height:auto; background:none; text-align:center; }
 
 
 
 .body_block3 .blockbtn5{ width:90%; margin:0 auto; margin-top:30px; height:auto; background-position:center bottom; background-color:#0e85ca; background-image: none;}
 
-.body_block3 .blockbtn5 a{ background:url(system/themes/dnaofsuccessadmin/images/icon1.png) no-repeat  center 10px; display:block; width:100%; height:100%; padding:60px 5px 0 5px; }
+.body_block3 .blockbtn5 a{ background:url(system/themes/dnaofsuccessadmin/images/icon5.png) no-repeat  center 10px; display:block; width:100%; height:100%; padding:60px 5px 0 5px; }
 .body_block3 .blockbtn5 span{ display:block; width:100%; height:auto; background:none; text-align:center; }
 
 
 .body_block3 .blockbtn6{ width:90%; margin:0 auto; margin-top:30px; height:auto; background-position:center bottom; background-color:#0e85ca; background-image: none;}
 
-.body_block3 .blockbtn6 a{ background:url(system/themes/dnaofsuccessadmin/images/icon1.png) no-repeat  center 10px; display:block; width:100%; height:100%; padding:60px 5px 0 5px; }
+.body_block3 .blockbtn6 a{ background:url(system/themes/dnaofsuccessadmin/images/icon6.png) no-repeat  center 10px; display:block; width:100%; height:100%; padding:60px 5px 0 5px; }
 .body_block3 .blockbtn6 span{ display:block; width:100%; height:auto; background:none; text-align:center; }
 
 
 .body_block3 .blockbtn7{ width:90%; margin:0 auto; margin-top:30px; height:auto; background-position:center bottom; background-color:#0e85ca; background-image: none;}
 
-.body_block3 .blockbtn7 a{ background:url(system/themes/dnaofsuccessadmin/images/icon1.png) no-repeat  center 10px; display:block; width:100%; height:100%; padding:60px 5px 0 5px; }
+.body_block3 .blockbtn7 a{ background:url(system/themes/dnaofsuccessadmin/images/icon7.png) no-repeat  center 10px; display:block; width:100%; height:100%; padding:60px 5px 0 5px; }
 .body_block3 .blockbtn7 span{ display:block; width:100%; height:auto; background:none; text-align:center; }
 
 .banner_text-block1{ width:99%; margin-left:auto; margin-right:auto;}
+
+    .affiliate_conbanner1{ width:99%; margin-left:auto; margin-right:auto;}
 .banner_text-block2{ width:99%; margin-left:auto; margin-right:auto;}
 .banner_text-block3{ width:99%; margin-left:auto; margin-right:auto;}
 .banner_text-block4{ width:99%; margin-left:auto; margin-right:auto;}
@@ -246,6 +336,13 @@
 .text_block_btn{ width:99%; margin-left:auto; margin-right:auto;}
 
 .buttom_text4{ width:auto; background:url(system/themes/dnaofsuccessadmin/images/texticon.png) no-repeat center top; padding:104px 0 0 0; text-align:center; line-height:40px;}
+
+
+    .body_block3 .mentorblockbtnnew{ width:90%; margin:0 auto; margin-top:30px; height:auto; background-position:center bottom; background-color:#0e85ca; background-image: none;}
+
+    .body_block3 .mentorblockbtnnew a{ background:url(system/themes/dnaofsuccessadmin/images/mentor_new_btnicon.png) no-repeat  center 10px; display:block; width:100%; height:100%; padding:60px 5px 0 5px; }
+    .body_block3 .mentorblockbtnnew span{ display:block; width:100%; height:auto; background:none; text-align:center; }
+
 
 }
 
@@ -265,6 +362,14 @@
     .top_banner_block2 .topbanner_textblock2 .toplogo2{ max-width:100%;}
 
 
+
+    .top_banner_block3{  height:auto;}
+
+    .top_banner_block3 .topbanner_textblock3{ width:90%; margin:0 auto;margin-top:380px; margin-bottom:26px;}
+
+    .top_banner_block3 .topbanner_textblock3 .toplogo3{ max-width:100%;}
+
+
 .body_block3 .text_part .ulone li{ width:100%; float:none;}
 }
 
@@ -279,6 +384,8 @@
 .block3_text1 img{ max-width:100%;}
 
 .banner_text-block1{ background-position:16% top;}
+
+    .affiliate_conbanner1{ background-position:16% top;}
 .banner_text-block2{ background-position:90% top;}
 
 .banner_text-block3{ background-position:12% top;}
@@ -318,6 +425,11 @@
 
 
 @media screen and (max-width:1199px){
+    .lessons_conblock  .education_button{ width: 430px!important; margin-left: auto!important; margin-right: auto!important;}
+
+    #widgkey_rcolumns_8 .row { width: 972px; margin: 0 auto;}
+
+    #widgkey_rcolumns_13 .row { width: 972px; margin: 0 auto;}
 
     .body_block_list2 .container {
         padding: 0px 0 0 !important;
@@ -325,9 +437,27 @@
 
     .body_block1 h5{ padding-left: 10px; padding-right: 10px; width: auto;}
     .body_block_list2 .container ul{ margin:0; padding:0 10px 0 10px;}
-    .body_block_list2 .container h6{margin:10px 10px 30px 10px;}
+    .body_block_list2 .container h6{margin:30px 10px 30px 10px;}
+
+
+    .middle_block h5{ padding-left: 10px; padding-right: 10px; width: auto;}
+
+    .middle_block2 h5{ padding-left: 10px; padding-right: 10px; width: auto;}
+
+
+    .middle_block3 h5{ padding-left: 10px; padding-right: 10px; width: auto;}
 
     .body_blockmentor{ background: #cfdac7 url(system/themes/dnaofsuccessadmin/images/mentor_bg3.png) no-repeat center bottom; padding-bottom:380px; min-height:inherit; background-size:400px; }
+
+
+    .middle_block{ background: #cfdac7 url(system/themes/dnaofsuccessadmin/images/mentor_bg3.png) no-repeat center bottom; padding-bottom:380px; min-height:inherit; background-size:400px; }
+
+
+
+    .middle_block2{ background: #cfdac7 url(system/themes/dnaofsuccessadmin/images/bg4.png) no-repeat center bottom; padding-bottom:380px; min-height:inherit; background-size:400px; }
+
+    .middle_block3{ background: #cfdac7 url(system/themes/dnaofsuccessadmin/images/affiliate_bg1.png) no-repeat center bottom; padding-bottom:360px; min-height:inherit; background-size:400px; }
+
 
     .body_block3 .mentorblockbtn1{ background:url(system/themes/dnaofsuccessadmin/images/btnbg.png) repeat-x; width:100%; height:104px;  margin-top:30px;  margin-bottom:10px; border-radius:5px; padding:1px 0 5px 0; float:none;}
     .body_block3 .mentorblockbtn1 span{ width:870px;}
@@ -337,24 +467,57 @@
 
     .body_block_list2 .container ul li img{ display:block; margin:0 auto; float:none;}
 
-    .mentor_bottombanner1 h2{ padding-left:570px; padding-top: 62px;}
+    .mentor_bottombanner1{ height: auto;}
 
-    .mentor_bottombanner2 h2{ font-size: 30px;
-        padding: 67px 32px 0 15px;
-        text-align: left;}
+    .mentor_bottombanner1 h2{    margin: 205px 0 0; text-align: center;
+        width: 100%; border-radius: 0px; background: rgba(14, 135, 205, 10); padding: 13px 12px 10px 12px; }
 
-    .mentor_bottombanner3 h2{ padding: 57px 32px 0 740px;}
 
-    .mentor_bottombanner4 h2{ padding-left:570px; padding-top: 62px;}
+    .mentor_bottombannernew{ height: auto;}
 
+    .mentor_bottombannernew h2{    margin: 205px 0 0; text-align: center;
+        width: 100%; border-radius: 0px; background: rgba(14, 135, 205, 10); padding: 13px 12px 10px 12px; }
+
+
+
+    .mentor_bottombanner2{ height: auto;}
+    .mentor_bottombanner2 h2{ margin: 205px 0 0; text-align: center;
+        width: 100%; border-radius: 0px; background: rgba(14, 135, 205, 10); padding: 13px 12px 10px 12px;}
+
+
+    .affiliate_conbanner2{ height: auto;}
+    .affiliate_conbanner2 h2{ margin: 205px 0 0; text-align: center;
+        width: 100%; border-radius: 0px; background: rgba(14, 135, 205, 10); padding: 13px 12px 10px 12px;}
+
+
+    .mentor_bottombanner3{ height: auto;}
+    .mentor_bottombanner3 h2{ margin: 205px 0 0; text-align: center;
+        width: 100%; border-radius: 0px; background: rgba(14, 135, 205, 10); padding: 13px 12px 10px 12px;}
+
+
+    .mentor_bottombanner4{ height: auto;}
+    .mentor_bottombanner4 h2{ margin: 205px 0 0; text-align: center;
+        width: 100%; border-radius: 0px; background: rgba(14, 135, 205, 10); padding: 13px 12px 10px 12px;}
+
+
+    .mentor_bottombanner5{ height: auto;}
     .mentor_bottombanner5 h2{
-        padding: 67px 32px 0 15px;
-        text-align: left;}
+        margin: 204px 0 0; text-align: center;
+        width: 100%; border-radius: 0px; background: rgba(14, 135, 205, 10); padding: 13px 12px 10px 12px;}
 }
 
 
 
 @media screen and (max-width:991px){
+
+    .body_block3 .text_part ul li span{ margin-left: 0px; background:none;}
+    .body_block3 .text_part ul li span:first-letter{ background:url(system/themes/dnaofsuccessadmin/images/mentor_new_bullate.png) no-repeat left center; padding-left: 16px;}
+
+
+    #widgkey_rcolumns_8 .row { width: 99%; margin: 0 auto;}
+
+    #widgkey_rcolumns_13 .row { width: 99%; margin: 0 auto;}
+
     .body_block3 .mentorblockbtn1 span {
         width: 650px;
     }
@@ -364,22 +527,7 @@
     }
 
 
-    .mentor_bottombanner1{ height:auto; background-color:#ced4d6;}
-    .mentor_bottombanner1 h2{ text-align:center; padding:230px 0 22px 0; margin:0px;  }
 
-    .mentor_bottombanner2{ height:auto; background-color:#ced4d6;}
-    .mentor_bottombanner2 h2{ text-align:center; padding:230px 0 22px 0;  font-size: 36px;  margin:0px; width:auto;}
-
-    .mentor_bottombanner3{ height:auto; background-color:#ced4d6;}
-    .mentor_bottombanner3 h2{ text-align:center; padding:230px 0 22px 0;  font-size: 36px;  margin:0px;  width:auto;}
-
-
-    .mentor_bottombanner4{ height:auto; background-color:#ced4d6;}
-    .mentor_bottombanner4 h2{ text-align:center; padding:230px 0 22px 0;  font-size: 36px;  margin:0px;  width:auto;}
-
-
-    .mentor_bottombanner5{ height:auto; background-color:#ced4d6;}
-    .mentor_bottombanner5 h2{ text-align:center; padding:230px 0 22px 0;  font-size: 36px; margin:0px;   width:auto;}
 }
 
 @media screen and (max-width:767px){
@@ -401,9 +549,76 @@
 
     .mentor_bottombanner1{ width:99%; margin-left:auto; margin-right:auto;}
     .mentor_bottombanner2{ width:99%; margin-left:auto; margin-right:auto;}
+    .affiliate_conbanner2{ width:99%; margin-left:auto; margin-right:auto;}
     .mentor_bottombanner3{ width:99%; margin-left:auto; margin-right:auto;}
     .mentor_bottombanner4{ width:99%; margin-left:auto; margin-right:auto;}
     .mentor_bottombanner5{ width:99%; margin-left:auto; margin-right:auto;}
 
+    .mentor_bottombannernew{ width:99%; margin-left:auto; margin-right:auto;}
+}
 
+
+@media screen and (max-width:530px){
+    .mentor_bottombannernew{ background-position: -130px top;}
+
+}
+
+@media screen and (max-width:520px){
+.lessons_conblock  .education_button{ width: 330px!important; margin-left: auto!important; margin-right: auto!important;}
+    .lessons_conblock .education_button{ font-size: 20px;}
+}
+
+@media screen and (max-width:400px){
+    .lessons_conblock  .education_button .linkText{  padding: 19px 0 51px 48px;}
+
+    .lessons_conblock  .education_button{ width: 260px!important; margin-left: auto!important; margin-right: auto!important;}
+    .lessons_conblock .education_button{ font-size: 16px;}
+}
+
+@media screen and (max-width:400px){
+    .mentor_bottombannernew{ background-position: -188px top;}
+
+}
+
+/*----------------------affilate admin page media css ---------------*/
+
+@media screen and (max-width:1880px){
+
+    .top_banner_block3{ background-position: left top;}
+
+}
+
+@media screen and (max-width:1540px){
+    .middle_block3{ min-height: 580px;}
+
+}
+@media screen and (max-width:1600px){
+
+    .top_banner_block3{ background-position: -140px top;}
+}
+
+
+
+@media screen and (max-width:1366px){
+
+    .top_banner_block3{ background-position: -110px top;}
+}
+
+
+@media screen and (max-width:1160px){
+
+    .top_banner_block3{ background-position: right top;}
+}
+
+
+@media screen and (max-width:980px){
+
+    .top_banner_block3{ background-position: -870px top;}
+}
+
+@media screen and (max-width:450px){
+
+    .top_banner_block3{ background-position: -950px top;}
+
+    .affiliate_conbanner2{ background-position: -750px top;}
 }
